@@ -1,7 +1,5 @@
 package mate.academy.service;
 
-import mate.academy.model.User;
-
 public class AuthenticationService extends UserService {
     /**
      * Imagine that some user wants to login to your site.
